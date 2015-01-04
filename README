@@ -1,0 +1,13 @@
+INFORMATION:
+------------
+
+	pppoe-terminator - terminates PPPoE sessions
+
+	pppoe-terminator kills specific session defined by -d -s options or any session discovered while sniffing.
+
+	Copyright(c) 2008-2010, Tibor Bombiak
+
+LICENSE:
+--------
+
+	For license information read COPYING.
